@@ -1,0 +1,7 @@
+/my-server-setup
+  /local-setup
+    - setup-local-linux.sh
+    - setup-windows.ps1
+  /aws-setup
+    - setup-aws.sh
+  README.md
